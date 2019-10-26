@@ -1,3 +1,7 @@
+
+// this file is created by yawot.com
+//author name:Rahulpunk
+//any type of automation required please contact my website www.yawot.com
 #include "ThingSpeak.h"
 #include <ESP8266WiFi.h>
 
